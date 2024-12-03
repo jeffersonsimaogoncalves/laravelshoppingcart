@@ -18,7 +18,7 @@
     "require-dev": {
         "mockery/mockery": "^1.4.2",
         "phpunit/phpunit": "^9.0",
-        "symfony/var-dumper": "5.1.5.*@dev"
+        "symfony/var-dumper": "7.2.0@dev"
     },
     "autoload": {
         "psr-4": {
